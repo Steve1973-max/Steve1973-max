@@ -1,7 +1,3 @@
-# 💫 About Me:
-# Hi, I'm Steve Serrao 👋<br><br>I'm a Computer Engineering student at DBIT with a deep passion for learning new technologies and solving complex problems. While I have a strong foundation in software engineering and building robust web applications, my true drive is in uncovering patterns and building predictive models. I am currently focusing my learning and projects on becoming a Data Scientist.<br><br>### 🎯 What I Do<br>* **The Goal:** Pursuing a career in Data Science and machine learning.<br>* **The Background:** Experienced in full-stack development (including Python, React, and FastAPI) and building scalable system architectures.<br>* **The Passion:** Competing in hackathons, tackling algorithmic challenges, and continuously expanding my tech stack.<br><br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/steve__serrao/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/steve-serrao-417780288/) 
 
